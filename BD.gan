@@ -39,51 +39,50 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="15a64c84f0d14dd392a3c44118333158" name="Definição do Sistema" color="#ff0000" meeting="false" start="2025-02-24" duration="7" complete="0" expand="true">
-            <task id="8" uid="7fc94afe0ace48ab84197ef6cfe05626" name="Contextualização" color="#000000" meeting="false" start="2025-02-24" duration="2" complete="0" expand="true">
-                <depend id="9" type="2" difference="0" hardness="Strong"/>
+        <task id="0" uid="15a64c84f0d14dd392a3c44118333158" name="Definição do Sistema" color="#ff0000" meeting="false" start="2025-02-21" duration="4" complete="0" expand="true">
+            <task id="8" uid="7fc94afe0ace48ab84197ef6cfe05626" name="Contextualização" color="#000000" meeting="false" start="2025-02-21" duration="2" complete="0" expand="true">
+                <depend id="9" type="1" difference="0" hardness="Strong"/>
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="9" uid="4f83461fa1fb4446aec204d9ab3bc87d" name="Fundamentação" color="#000000" meeting="false" start="2025-02-26" duration="1" complete="0" expand="true">
-                <depend id="10" type="2" difference="0" hardness="Strong"/>
+            <task id="9" uid="4f83461fa1fb4446aec204d9ab3bc87d" name="Fundamentação" color="#000000" meeting="false" start="2025-02-21" duration="2" complete="0" expand="true">
+                <depend id="10" type="1" difference="0" hardness="Strong"/>
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="10" uid="291ae57f4093404799d24229813b7eca" name="Objetivos" color="#000000" meeting="false" start="2025-02-27" duration="1" complete="0" expand="true">
-                <depend id="11" type="2" difference="0" hardness="Strong"/>
-                <depend id="14" type="2" difference="0" hardness="Strong"/>
+            <task id="10" uid="291ae57f4093404799d24229813b7eca" name="Objetivos" color="#000000" meeting="false" start="2025-02-21" duration="1" complete="0" expand="true">
+                <depend id="11" type="1" difference="0" hardness="Strong"/>
+                <depend id="14" type="1" difference="0" hardness="Strong"/>
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="11" uid="22cf7065b8bd4edd80b1b1da3f258a68" name="Viabilidade" color="#000000" meeting="false" start="2025-02-28" duration="1" complete="0" expand="true">
+            <task id="11" uid="22cf7065b8bd4edd80b1b1da3f258a68" name="Viabilidade" color="#000000" meeting="false" start="2025-02-21" duration="1" complete="0" expand="true">
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
             </task>
             <task id="12" uid="9cf6b09d4f3b4ae59e0457fe3f178911" name="Recursos" color="#000000" meeting="false" start="2025-02-24" duration="2" complete="0" expand="true">
-                <depend id="13" type="2" difference="0" hardness="Strong"/>
-                <depend id="14" type="2" difference="0" hardness="Strong"/>
+                <depend id="13" type="1" difference="0" hardness="Strong"/>
+                <depend id="14" type="1" difference="0" hardness="Strong"/>
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="13" uid="943256984c5b4032b6743cea73ae6fb2" name="Equipa de Trabalho" color="#000000" meeting="false" start="2025-02-26" duration="2" complete="0" expand="true">
+            <task id="13" uid="943256984c5b4032b6743cea73ae6fb2" name="Equipa de Trabalho" color="#000000" meeting="false" start="2025-02-24" duration="2" complete="0" expand="true">
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="14" uid="163937078e704eb38969a076a7f564a0" name="Plano de Execução" color="#000000" meeting="false" start="2025-02-28" duration="2" complete="0" expand="true">
+            <task id="14" uid="163937078e704eb38969a076a7f564a0" name="Plano de Execução" color="#000000" meeting="false" start="2025-02-24" duration="2" complete="0" expand="true">
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="15" uid="db3e7c3565a8445d8e3e33db0a2c50ad" name="Revisão e Aprovação" color="#000000" meeting="false" start="2025-03-04" duration="1" complete="0" expand="true"/>
+            <task id="15" uid="db3e7c3565a8445d8e3e33db0a2c50ad" name="Revisão e Aprovação" color="#000000" meeting="false" start="2025-02-26" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="1" uid="44332f52ad524d20a965c6d1e5d77c49" name="Definição de Requisitos" color="#ffff00" meeting="false" start="2025-03-10" duration="16" complete="0" expand="true">
-            <depend id="2" type="2" difference="0" hardness="Strong"/>
-            <task id="16" uid="e5ca8eca30904a51b961711c42b8e05c" name="Definição do Método" color="#000000" meeting="false" start="2025-03-10" duration="2" complete="0" expand="true">
+        <task id="1" uid="44332f52ad524d20a965c6d1e5d77c49" name="Definição de Requisitos" color="#ffff00" meeting="false" start="2025-03-03" duration="16" complete="0" expand="true">
+            <task id="16" uid="e5ca8eca30904a51b961711c42b8e05c" name="Definição do Método" color="#000000" meeting="false" start="2025-03-03" duration="2" complete="0" expand="true">
                 <depend id="17" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="17" uid="3bc7bc5879a04eb7b6e2e928499c4281" name="Levantamento de requisitos" color="#000000" meeting="false" start="2025-03-12" duration="8" complete="0" expand="true">
+            <task id="17" uid="3bc7bc5879a04eb7b6e2e928499c4281" name="Levantamento de requisitos" color="#000000" meeting="false" start="2025-03-05" duration="8" complete="0" expand="true">
                 <depend id="18" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="18" uid="fdd5ecb497824c9fba796cf949d24425" name="Análise de Requisitos" color="#000000" meeting="false" start="2025-03-24" duration="3" complete="0" expand="true">
+            <task id="18" uid="fdd5ecb497824c9fba796cf949d24425" name="Análise de Requisitos" color="#000000" meeting="false" start="2025-03-17" duration="3" complete="0" expand="true">
                 <depend id="19" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="19" uid="93ef76bde0aa4c369a857e7f1d8bba4c" name="Organização de Requisitos" color="#000000" meeting="false" start="2025-03-27" duration="2" complete="0" expand="true">
+            <task id="19" uid="93ef76bde0aa4c369a857e7f1d8bba4c" name="Organização de Requisitos" color="#000000" meeting="false" start="2025-03-20" duration="2" complete="0" expand="true">
                 <depend id="20" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="20" uid="fa8073c3ba1d4868921082440a0bbb84" name="Validação" color="#000000" meeting="false" start="2025-03-31" duration="1" complete="0" expand="true"/>
+            <task id="20" uid="fa8073c3ba1d4868921082440a0bbb84" name="Validação" color="#000000" meeting="false" start="2025-03-24" duration="1" complete="0" expand="true"/>
         </task>
         <task id="2" uid="851762a08476401e963878e3ec3d91b6" name="Modelação Conceptual" color="#0033ff" meeting="false" start="2025-04-01" duration="1" complete="0" expand="true"/>
         <task id="3" uid="2d682d878bbe4d3eb87783000a8d7aa7" name="Modelação Lógica" color="#990099" meeting="false" start="2025-04-21" duration="1" complete="0" expand="true"/>
